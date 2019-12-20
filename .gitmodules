@@ -1,0 +1,3 @@
+[submodule "my_plugins/undotree"]
+	path = my_plugins/undotree
+	url = https://github.com/TheDoctorRAB/undotree.git
